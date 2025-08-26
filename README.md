@@ -1,5 +1,3 @@
-
-```markdown
 # Romaji → 日本語 (PowerShell IME)
 
 A small **PowerShell** GUI application that converts **romaji** (Latin alphabet used for Japanese) into **hiragana** or **katakana** in real time.  
@@ -40,7 +38,6 @@ Along with the `.ps1` script, this repository also provides a prebuilt **executa
 3. Run the script:
    ```powershell
    ./romanji.ps1
-````
 
 4. The graphical interface will launch.
 
@@ -48,7 +45,7 @@ Along with the `.ps1` script, this repository also provides a prebuilt **executa
 
 ## 📸 Screenshot
 
-![Preview](366336b1-a4b4-466f-97ea-8ac6b37e1788.png)
+![Preview](<img width="1120" height="619" alt="image" src="https://github.com/user-attachments/assets/e5b88f30-68a5-4694-bfa8-4ef179426aa6" />)
 
 ---
 
