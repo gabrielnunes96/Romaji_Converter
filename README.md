@@ -1,4 +1,3 @@
-Here you go Gabriel — a complete **English README.md** ready for copy & paste:
 
 ```markdown
 # Romaji → 日本語 (PowerShell IME)
