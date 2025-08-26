@@ -45,7 +45,7 @@ Along with the `.ps1` script, this repository also provides a prebuilt **executa
 
 ## 📸 Screenshot
 
-![Preview](<img width="1120" height="619" alt="image" src="https://github.com/user-attachments/assets/e5b88f30-68a5-4694-bfa8-4ef179426aa6" />)
+<img width="1120" height="619" alt="image" src="https://github.com/user-attachments/assets/47d67b0a-b92b-4a17-bb67-84329994cb0e" />
 
 ---
 
