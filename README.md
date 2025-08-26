@@ -60,5 +60,3 @@ Copyright (c) 2025 **Gabriel Nunes**
 
 * The executable was generated from the PowerShell script for convenience.
 * You can also open and modify the script directly to expand or adjust the romaji → kana mapping.
-
-```
