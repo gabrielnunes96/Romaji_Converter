@@ -18,8 +18,8 @@ Along with the `.ps1` script, this repository also provides a prebuilt **executa
 ```
 
 ├── LICENSE        # MIT License
-├── romanji.exe    # Windows executable
-└── romanji.ps1    # PowerShell script with the conversion logic
+├── romaji.exe    # Windows executable
+└── romaji.ps1    # PowerShell script with the conversion logic
 
 ````
 
@@ -28,16 +28,16 @@ Along with the `.ps1` script, this repository also provides a prebuilt **executa
 ## 📦 How to Use
 
 ### 🔹 Using the Executable
-1. Download the **`romanji.exe`** file from this repository.
+1. Download the **`romaji.exe`** file from this repository.
 2. Run the program on Windows.
 3. Type your text in romaji and see the instant conversion to hiragana or katakana.
 
 ### 🔹 Using the PowerShell Script
-1. Clone this repository or download the **`romanji.ps1`** file.
+1. Clone this repository or download the **`romaji.ps1`** file.
 2. Open **PowerShell** on Windows.
 3. Run the script:
    ```powershell
-   ./romanji.ps1
+   ./romaji.ps1
 
 4. The graphical interface will launch.
 
